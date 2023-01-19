@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja muito bem-vindo ao meu GitHub</h1>
+<h1 align="center">Olá, seja muito bem-vindo ao meu repositório !</h1>
 <h3 align="center">Apaixonado por programação, atualmente estudando ADS em busca de conhecimento para me tornar um Data Analytics e fazer a diferença na vida das pessoas, gerando insights que serão fundamentais na tomada de decisões.</h3>
 
 - 🌱 I’m currently learning **Python, BD, DataAnalytics**
