@@ -1,15 +1,14 @@
 <h1 align="center">Olá, seja muito bem-vindo ao meu repositório !</h1>
-<h3 align="center">Apaixonado por programação, atualmente estudando ADS em busca de conhecimento para me tornar um Data Analytics e fazer a diferença na vida das pessoas, gerando insights que serão fundamentais na tomada de decisões.</h3>
+<h3 align="center">Apaixonado por programação, atualmente estudando ADS na Uninter em busca de conhecimento para me tornar um Data Analytics e fazer a diferença na vida das pessoas, gerando insights que serão fundamentais na tomada de decisões.</h3>
 
-- 🌱 I’m currently learning **Python, BD, DataAnalytics**
+- 🌱 Atualmente estudando **Python, BD, DataAnalytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Faabry?tab=repositories](https://github.com/Faabry?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/Faabry?tab=repositories)
 
-- 💬 Ask me about **Python, MySQL, Power BI**
+- 💬 Me pergunte sobre **Python, MySQL, Power BI**
 
-- 📫 How to reach me **https://www.linkedin.com/in/airton-f-225784255/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contato:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/airton-f-225784255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/airton-f-225784255/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20138699/yahaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20138699/yahaim" height="30" width="40" /></a>
