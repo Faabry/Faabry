@@ -1,10 +1,12 @@
 <h1 align="center">Olá, seja muito bem-vindo ao meu repositório !</h1>
-<h3>Apaixonado por programação, atualmente estudando ADS na <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> em busca de conhecimento e especialização. Tenho experiência em diversas ferramentas e tecnologias, incluindo Python, SQL e Power BI. Essas habilidades me permitem coletar, limpar e analisar grandes conjuntos de dados para descobrir tendências e padrões, além de criar visualizações poderosas e interativas para comunicar os resultados.</h3>
+<br>
+<h3> Apaixonado por programação, atualmente estudando ADS na <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> em busca de conhecimento e especialização. Tenho experiência em diversas ferramentas e tecnologias, incluindo Python, SQL e Power BI. Essas habilidades me permitem coletar, limpar e analisar grandes conjuntos de dados para descobrir tendências e padrões, além de criar visualizações poderosas e interativas para comunicar os resultados.</h3>
+
 <h3> Meu objetivo é me tornar um Data Scientist e fazer a diferença na vida das pessoas, gerando insights que serão fundamentais na tomada de decisões.</h3>
 
 - 🌱 Atualmente estudando Python, SQL e Power BI para Data Science na <a href="https://www.datascienceacademy.com.br/start"> Data Science Academy </a> 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis [aqui](https://github.com/Faabry?tab=repositories)
+- 👨‍💻 Todos os meus projetos estão disponíveis <a href="https://github.com/Faabry?tab=repositories">aqui</a>
 
 - 💬 Me pergunte sobre **Python, MySQL, Power BI**
 
