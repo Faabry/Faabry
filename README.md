@@ -12,7 +12,7 @@
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/airton-f-225784255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/airton-f-225784255/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/airton-f-225784255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/airton-f-225784255/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20138699/yahaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20138699/yahaim" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/tomfaabry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tomfaabry" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/yahaimk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/yahaimk" height="30" width="40" /></a>
