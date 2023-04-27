@@ -5,7 +5,7 @@
 
 <h4> My goal is to become a Data Scientist and make the difference in people's lives, generating insights that will be essencial to take the decisions.</h4>
 
-- 🌱 Currently studying Python, SQL e Power BI para Data Science na <a href="https://www.datascienceacademy.com.br/start"> Data Science Academy </a> 
+- 🌱 Currently studying Python, SQL and Power BI at <a href="https://www.datascienceacademy.com.br/start"> Data Science Academy </a> 
 
 - 👨‍💻 All of my repos are avaliable <a href="https://github.com/Faabry?tab=repositories">here</a>
 
