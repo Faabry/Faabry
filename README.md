@@ -1,19 +1,20 @@
 <img src="https://user-images.githubusercontent.com/110841289/234858604-cf0de1df-fd87-45c0-ae78-157fcaed8d6a.gif" width="900" height="280">
 <br>
-<h3> Apaixonado por programação, atualmente estudando ADS na <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> em busca de conhecimento e especialização. Tenho experiência em diversas ferramentas e tecnologias, incluindo Python, SQL e Power BI. Essas habilidades me permitem coletar, limpar e analisar grandes conjuntos de dados para descobrir tendências e padrões, além de criar visualizações poderosas e interativas para comunicar os resultados.</h3>
+<br>
+<p> Passionate for programming, I'm currently studying undergraduation course on <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> in order to improve my knowledge and experience. I have experience on many tools and technologies, including Python, SQL and Power BI. These abilities allows me to collect, clean and analyze huge databases to find out tendencies and patterns, besides of create powerfull and interactive visualizations  to communicate the results.</p>
 
-<h3> Meu objetivo é me tornar um Data Scientist e fazer a diferença na vida das pessoas, gerando insights que serão fundamentais na tomada de decisões.</h3>
+<h4> My goal is to become a Data Scientist and make the difference in people's lives, generating insights that will be essencial to take the decisions.</h4>
 
-- 🌱 Atualmente estudando Python, SQL e Power BI para Data Science na <a href="https://www.datascienceacademy.com.br/start"> Data Science Academy </a> 
+- 🌱 Currently studying Python, SQL e Power BI para Data Science na <a href="https://www.datascienceacademy.com.br/start"> Data Science Academy </a> 
 
-- 👨‍💻 Todos os meus projetos estão disponíveis <a href="https://github.com/Faabry?tab=repositories">aqui</a>
+- 👨‍💻 All of my repos are avaliable <a href="https://github.com/Faabry?tab=repositories">here</a>
 
-- 💬 Me pergunte sobre **Python, MySQL, Power BI**
-
-
+- 💬 Ask me about **Python, MySQL, Power BI**
 
 
-<h3 align="left">Contato:</h3>
+
+
+<h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/airton-f-225784255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/airton-f-225784255/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20138699/yahaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20138699/yahaim" height="30" width="40" /></a>
