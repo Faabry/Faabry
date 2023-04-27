@@ -17,7 +17,6 @@
 <h3 align="left">Contact:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/airton-f-225784255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/airton-f-225784255/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20138699/yahaim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20138699/yahaim" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/tomfaabry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/tomfaabry" height="30" width="40" /></a>
 <a href="https://www.instagram.com/faa_bry/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/110841289/227697828-6a70387e-5489-4540-ab65-97c179788a58.png" alt="https://www.facebook.com/yahaimk" height="40" width="40" /></a>
 </p>
