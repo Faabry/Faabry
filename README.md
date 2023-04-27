@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja muito bem-vindo ao meu repositório !</h1>
+<img src="https://user-images.githubusercontent.com/110841289/234855637-77966805-d653-4cf6-b4af-bb8d8d8bfe15.gif" width="1150" height="450">
 <br>
 <h3> Apaixonado por programação, atualmente estudando ADS na <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> em busca de conhecimento e especialização. Tenho experiência em diversas ferramentas e tecnologias, incluindo Python, SQL e Power BI. Essas habilidades me permitem coletar, limpar e analisar grandes conjuntos de dados para descobrir tendências e padrões, além de criar visualizações poderosas e interativas para comunicar os resultados.</h3>
 
@@ -9,6 +9,7 @@
 - 👨‍💻 Todos os meus projetos estão disponíveis <a href="https://github.com/Faabry?tab=repositories">aqui</a>
 
 - 💬 Me pergunte sobre **Python, MySQL, Power BI**
+
 
 
 
