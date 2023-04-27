@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/110841289/234858604-cf0de1df-fd87-45c0-ae78-157fcaed8d6a.gif" width="950" height="350">
+<img src="https://user-images.githubusercontent.com/110841289/234858604-cf0de1df-fd87-45c0-ae78-157fcaed8d6a.gif" width="900" height="280">
 <br>
 <h3> Apaixonado por programação, atualmente estudando ADS na <a href="https://www.uninter.com/graduacao-ead/?msclkid=310b9df4a1cd1ec39d4bf9fff10c0a5f&utm_source=bing&utm_medium=cpc&utm_campaign=%5BGRAD_EAD%5D%5BBing%5D%5BConversao%5D%5BGeral%5D%5BAlways_On%5D&utm_term=uninter&utm_content=Uninter%20(Novo)">Uninter</a> em busca de conhecimento e especialização. Tenho experiência em diversas ferramentas e tecnologias, incluindo Python, SQL e Power BI. Essas habilidades me permitem coletar, limpar e analisar grandes conjuntos de dados para descobrir tendências e padrões, além de criar visualizações poderosas e interativas para comunicar os resultados.</h3>
 
@@ -24,7 +24,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://app.powerbi.com/"><img src="https://user-images.githubusercontent.com/110841289/224362925-4ff995f3-b671-4c63-840f-9da81e592216.jpg" height=40>
-  </a></p>
+  </a> <a href="https://developer.mozilla.org/en-US/docs/web/html"><img src="https://user-images.githubusercontent.com/110841289/234860938-49872de0-fa69-4221-809b-d725e82f5014.png" width="50" height="50"><a/></p>
+
 
 
 
