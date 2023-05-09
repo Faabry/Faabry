@@ -2,7 +2,8 @@
 <br>
 <br>
 <div>
-  <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=faabry&count_private=true&show_icons=true&theme=tokyonight">
+  <!-- thanks to anuraghazra for the git stats-->
+  <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=faabry&count_private=true&show_icons=true&theme=dracula">
 </div>
 
  ##
