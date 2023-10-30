@@ -1,10 +1,6 @@
-<!-- <img src="https://user-images.githubusercontent.com/110841289/234858604-cf0de1df-fd87-45c0-ae78-157fcaed8d6a.gif" width="900" height="280"> -->
+<img src="https://user-images.githubusercontent.com/110841289/234858604-cf0de1df-fd87-45c0-ae78-157fcaed8d6a.gif" width="900" height="280">
 <br>
 <br>
-<div>
-  <!-- thanks to anuraghazra for the git stats-->
-  <img align="center" height=250 src="https://github-readme-stats.vercel.app/api?username=faabry&count_private=true&show_icons=true&theme=dracula">
-</div>
 
  ##
  
